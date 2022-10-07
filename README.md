@@ -14,5 +14,9 @@ I am a student, in my last year, from Brazil .  I make projects for fun and for 
 <h2>💻 Some stats 💻</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=AndreOliveira-png&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</br></br>
+## 🔥 Streak Stats
 
-⭐️Templates From [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and [FelixRilling](https://github.com/)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=AndreOliveira-png" alt="7oSkaaa" /></p>
+
+⭐️Templates From [7oSkaaa](https://github.com/7oSkaaa), [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and [FelixRilling](https://github.com/)
