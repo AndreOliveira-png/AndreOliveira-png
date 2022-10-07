@@ -1,23 +1,61 @@
 ### Hi there 👋, my name is André
 #### I am a Software Engineer Student
 ![I am a Software Engineer Student](https://drive.google.com/uc?export=view&id=1uBeUjmroa2auCMlqkSLVIkVf5pNeVzE7)
-I am a student, in my last year, from Brazil .  I make projects for fun and for my grades. If you liked some or just want to talk, i would love to have a coffee with you.
+<h4 align="center"> I am a student, in my last year, from Brazil .  I make projects for fun and for my grades. If you liked some or just want to talk, i would love to have a coffee with you. ☕ </h4>
+
 </br></br>
-## I know how to Hellow World on:
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://pt-br.reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://jquery.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="24">](https://www.java.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://www.python.org/) 
+<h2> I know how to Hellow World on: </h2>
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+</p>
 </br></br>
-## I'm trying to learn:
- | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" width="24">](https://vuejs.org/) |
-|---|---|---|---|---|---|
+
+<h2> I'm trying to learn: </h2>
+<p align="center"> 
+  &emsp; 
+  <a href="https://pt-br.reactjs.org/" target="_blank"> 
+    <img alt="React.js" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
+  </a> 
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  </a> 
+</p>
+
 
 </br></br>
 <h2>💻 Some stats 💻</h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreOliveira-png&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AndreOliveira-png's Github Stats">
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreOliveira-png&include_all_commits=true&count_private=true&show_icons=true&&theme=algolia" alt="AndreOliveira-png's Github Stats">
+ 
+ </br></br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreOliveira-png&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AndreOliveira-png" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ </div>
 
 </br></br>
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=AndreOliveira-png" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreOliveira-png&theme=algolia" alt="AndreOliveira-png" /></p>
 
-⭐️Templates From [7oSkaaa](https://github.com/7oSkaaa), [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and [FelixRilling](https://github.com/)
+⭐️Templates From [7oSkaaa](https://github.com/7oSkaaa), [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng)
