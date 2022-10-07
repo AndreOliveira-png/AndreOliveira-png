@@ -1,34 +1,15 @@
 ### Hi there 👋, my name is André
 #### I am a Software Engineer Student
 ![I am a Software Engineer Student](https://drive.google.com/uc?export=view&id=1uBeUjmroa2auCMlqkSLVIkVf5pNeVzE7)
+I am a student from Brazil in my last year.  I make projects for fun and for my grades. If you liked some or just want to talk, i would love to have a coffee with you.
 
 I know how to Hellow World on:
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
 
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
-```golang
-package main
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=AndreOliveira-png&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "I am a student from Brazil in my last year.  I make projects for fun and for my grades. If you liked some or just want to talk, i would love to have a coffee with you.",
-		"- 🌱 I’m currently trying to learn":        "Vue.js",
-		"- 👯 I’m looking to collaborate on": "React Native related projects",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
-```
-⭐️Template From [@AnhellO](https://github.com/AnhellO) and [@kautukkundan](https://github.com/kautukkundan)
+⭐️Templates From [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and [FelixRilling](https://github.com/)
