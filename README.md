@@ -58,4 +58,17 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreOliveira-png&theme=algolia" alt="AndreOliveira-png" /></p>
 
+## You can find me here:
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.linkedin.com/in/andr%C3%A9-oliveira-a71025167/"> 
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.instagram.com/andreleoliveira/" target="_blank"> 
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+</p>
+
 ⭐️Templates From [7oSkaaa](https://github.com/7oSkaaa), [@kautukkundan](https://github.com/kautukkundan) and [reeveng](https://github.com/reeveng)
